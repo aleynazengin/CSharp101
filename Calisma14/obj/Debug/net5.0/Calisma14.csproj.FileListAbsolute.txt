@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.exe
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.deps.json
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.dll
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\ref\Calisma14.dll
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\bin\Debug\net5.0\Calisma14.pdb
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.dll
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\ref\Calisma14.dll
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.pdb
+C:\Users\user\Documents\GitHub\CSharp101\CSharp101\Calisma14\obj\Debug\net5.0\Calisma14.genruntimeconfig.cache
